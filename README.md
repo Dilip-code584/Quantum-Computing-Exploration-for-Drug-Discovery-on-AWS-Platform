@@ -1,6 +1,3 @@
-Got it! I’ve taken your README content and reformatted it with proper headings, sections, tables, and better Markdown readability while keeping all your original content intact. Here's a polished version:
-
----
 
 # Quantum Computing Exploration for Drug Discovery on AWS
 
@@ -120,8 +117,3 @@ chmod +x ./run-all-tests.sh
 
 ---
 
-This formatting improves readability, uses clear headings, tables, and code blocks, and keeps your content fully intact.
-
-If you want, I can also **add a table of contents with links to sections** so your README is even more navigable.
-
-Do you want me to do that next?
