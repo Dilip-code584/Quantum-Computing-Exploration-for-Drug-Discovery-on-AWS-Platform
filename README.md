@@ -81,19 +81,6 @@ source/
 └── test/
 ```
 
----
-
-## Running Unit Tests
-
-The `run-all-tests.sh` script in the `/source` directory runs all **unit, integration, and snapshot tests** for both the CDK project as well as any associated Lambda functions or other source code packages.
-
-```bash
-cd ./source
-chmod +x ./run-all-tests.sh
-./run-all-tests.sh
-```
-
----
 
 ## About
 
