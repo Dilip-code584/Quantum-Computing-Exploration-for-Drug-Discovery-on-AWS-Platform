@@ -81,13 +81,6 @@ source/
 └── test/
 ```
 
-
-## About
-
-**Quantum-Computing-Exploration-For-Drug-Discovery-On-AWS**
-
----
-
 ## Resources
 
 * **Readme**
